@@ -21,12 +21,14 @@ h1 {
     6.25px 0px 0 #35383F, /* Borde central derecho */
     6.25px 6.25px 0 #35383F; /* Borde inferior derecho */
 
+    padding-bottom: 15px;
 }
 h2 {
     font-weight: 600;
     font-size: 1.5rem;
     color: #ECEDF0;
     text-align: center;
+    padding-bottom: 15px;
 }
 p {
     font-weight: 600;
